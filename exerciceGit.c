@@ -12,7 +12,7 @@ int main ()
 	}
 	while(fNum <= 0);
 
-	char nom[3][100];
+	char nom[fNum][100];
 	printf("bonjour les amis \n");
 	
 	for (int i = 0 ; i < fNum ; i++)
