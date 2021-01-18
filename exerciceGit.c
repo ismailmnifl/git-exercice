@@ -17,4 +17,8 @@ int main ()
 	{
 		printf("\nsalut : %s\n",nom[i]);	
 	}
+	while(1)
+	{
+		
+	}
 }
